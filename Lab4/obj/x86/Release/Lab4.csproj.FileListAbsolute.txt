@@ -1,0 +1,4 @@
+C:\Users\Owen\Documents\Visual Studio 2010\Projects\Lab4\Lab4\bin\Release\Lab4.exe
+C:\Users\Owen\Documents\Visual Studio 2010\Projects\Lab4\Lab4\bin\Release\Lab4.pdb
+C:\Users\Owen\Documents\Visual Studio 2010\Projects\Lab4\Lab4\obj\x86\Release\Lab4.exe
+C:\Users\Owen\Documents\Visual Studio 2010\Projects\Lab4\Lab4\obj\x86\Release\Lab4.pdb
