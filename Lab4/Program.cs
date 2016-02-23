@@ -24,8 +24,8 @@ namespace Lab4
 
             // shuffle the deck and print the contents of the deck
             
-            //deck.Shuffle();
-            //deck.Print();
+            deck.Shuffle();
+            deck.Print();
             Console.WriteLine();
 
             // take the top card from the deck and print the card rank and suit
